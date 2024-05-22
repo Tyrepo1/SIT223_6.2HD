@@ -20,7 +20,7 @@ To clone the repository run the following command in your terminal
 Next you need to navigate to the cloned directory by typing the following command in your terminal
 
    ```bash
-   cd 6.2HD
+   cd SIT223_6.2HD
   ```
 ## Install dependencies
 
